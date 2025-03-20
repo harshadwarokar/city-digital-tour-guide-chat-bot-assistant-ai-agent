@@ -1,0 +1,48 @@
+streamlit>=1.0
+SpeechRecognition>=3.8
+PyAudio>=0.2.11
+pyttsx3>=2.90
+Pillow>=9.0
+langchain>=0.0.170
+chromadb>=0.3.0
+streamlit
+streamlit-webrtc
+duckduckgo-search
+gTTS
+SpeechRecognition
+pyttsx3
+numpy
+requests
+streamlit  
+langchain  
+langchain-groq  
+duckduckgo-search  
+
+# Voice interfaces  
+pyttsx3  
+SpeechRecognition  
+
+# Data processing and visualization  
+pandas  
+numpy  
+matplotlib  
+seaborn  
+plotly  
+Pillow  
+
+# Streamlit components  
+streamlit-option-menu  
+streamlit-lottie  
+
+# Utilities  
+requests  
+python-dotenv  
+
+fastapi
+uvicorn
+requests
+SpeechRecognition
+duckduckgo_search
+gTTS
+langchain_core
+langchain_groq
